@@ -22,11 +22,11 @@ Setup Lab Environment
 
    |image1|
 
-#. Type the command **cd:\\labfiles\\solutions\\postman** to navigate the Postman collection folder.
+#. Type the command **cd c:\\library\\labs\\class2\\postman** to navigate the Postman collection folder.
 
    |image2|
 
-#. Type the command **newman run "Ephemeral Authentication Labs.json" -e lab-setup.json -k**
+#. Type the command **newman run "Ephemeral Authentication Labs.postman_collection.json" -e lab-setup.json -k**
 
    |image3|
 

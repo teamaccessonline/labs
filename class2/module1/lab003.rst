@@ -60,7 +60,7 @@ Task - Open Visual Policy Editor
 
    |image18|
 
-#. Click the **+** (plus symbol) located on the Successful branch located between **AD Auth** and **Deny** box
+#. Click the **+** (plus symbol) located on the **Successful** branch located between **AD Auth** and **Deny** box
 #. Click **Add Item**
 
    |image10|
@@ -82,7 +82,7 @@ Task - Open Visual Policy Editor
 
    |image38|
 
-#. Locate the **F5CertSSO.f5lab.local.txt** file in the **C:\\Labfiles\\Agility2020-Ephemeral Authentication** directory. 
+#. Locate the **F5CertSSO.f5lab.local.txt** file in the **C:\\library\\labs\\class2\\student_files** directory. 
 
    |image39|
 
