@@ -27,20 +27,15 @@ Setup Lab Environment
 
 #. Type the command **cd c:\\labs\\class1\\postman** to navigate the Postman collection folder.
 
-   |image2|
-
 #. Type the command **newman run "API Protection Labs.postman_collection.json" -e setup-master.postman_environment.json -k**
-
-   |image3|
 
 #. All Steps in the collection should succeed before moving on to the lab.  If an API call fails run the collection again by repeating the previous step.  
 
-   |image4|
+   |image2|
 
 .. |image1| image:: media/image001.png
 .. |image2| image:: media/image002.png
-.. |image3| image:: media/image003.png
-.. |image4| image:: media/image004.png
+
 
 .. toctree::
    :maxdepth: 1
