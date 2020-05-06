@@ -12,7 +12,7 @@ Topics Covered
 
 Expected time to complete: **1 hour**
 
-UDF blueprint version: **34**
+UDF blueprint version: **44**
 
 Setup Lab Environment
 ----------------------------------------
@@ -21,11 +21,11 @@ Setup Lab Environment
 
    |image1|
 
-#. Type the command **cd C:\\library\\labs\\class3\\postman** to navigate the Postman collection folder.
+#. Type the command **cd C:\\labs\\class3\\postman** to navigate the Postman collection folder.
 
    |image2|
 
-#. Type the command **newman run "Identity Aware Proxy Labs.json" -e lab-setup.json -k**
+#. Type the command **newman run "Identity Aware Proxy Labs.postman_collection.json" -e setup-master.postman_environment.json -k**
 
    |image3|
 

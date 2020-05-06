@@ -13,7 +13,7 @@ This class covers the following topics related to Ephemeral Authentication:
 Expected time to complete: **1 hour**
 
 
-UDF blueprint version: **1**
+UDF blueprint version: **44**
 
 Setup Lab Environment
 ----------------------------------------
@@ -22,11 +22,11 @@ Setup Lab Environment
 
    |image1|
 
-#. Type the command **cd c:\\library\\labs\\class2\\postman** to navigate the Postman collection folder.
+#. Type the command **cd c:\\labs\\class2\\postman** to navigate the Postman collection folder.
 
    |image2|
 
-#. Type the command **newman run "Ephemeral Authentication Labs.postman_collection.json" -e lab-setup.json -k**
+#. Type the command **newman run "Ephemeral Authentication Labs.postman_collection.json" -e setup-master.postman_environment.json -k**
 
    |image3|
 

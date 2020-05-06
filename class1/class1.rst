@@ -16,7 +16,7 @@ During this hands-on lab you will learn how to configure the following:
 Expected time to complete: **1 hour**
 
 
-UDF blueprint version: **1**
+UDF blueprint version: **44**
 
 Setup Lab Environment
 ----------------------------------------
@@ -25,11 +25,11 @@ Setup Lab Environment
 
    |image1|
 
-#. Type the command **cd c:\\library\\labs\\class1\\postman** to navigate the Postman collection folder.
+#. Type the command **cd c:\\labs\\class1\\postman** to navigate the Postman collection folder.
 
    |image2|
 
-#. Type the command **newman run "API Protection Labs.json" -e lab-setup.json -k**
+#. Type the command **newman run "API Protection Labs.postman_collection.json" -e setup-master.postman_environment.json -k**
 
    |image3|
 
