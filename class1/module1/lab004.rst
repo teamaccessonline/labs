@@ -94,7 +94,7 @@ Task 3 - Send a valid GET with JWT to set user1's employeeNumber
 Task 4 - Send a valid GET with JWT to create a user
 -----------------------------------------------------
 
-1. Select the request **JWT-Create User-JWT**
+1. Select the request **JWT-Create User**
 
 2. Select the **Authorization** tab
 
