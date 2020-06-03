@@ -50,7 +50,7 @@ Task 2 - Send a valid GET with JWT to retrieve user1\'s attributes
 
 |image28|
 
-7. Scroll down to the token and click **Use Token**
+7. Click **Use Token** at the top.
 
 |image29|
 
