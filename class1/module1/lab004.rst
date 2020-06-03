@@ -111,7 +111,7 @@ Task 4 - Send a valid GET with JWT to create a user
 |image46|
 
 
-Task 4 - Send invalid GET request with JWT to set a nonexistent user's attributes
+Task 5 - Send invalid GET request with JWT to set a nonexistent user's attributes
 ------------------------------------------------------------------------------------
 
 1. Select the request **JWT-Set Invalid Attributes**
