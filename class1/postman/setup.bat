@@ -1,0 +1,1 @@
+newman run "API Protection Labs-setup.postman_collection.json" -e master-single-dc.postman_environment.json -k
