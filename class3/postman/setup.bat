@@ -1,0 +1,1 @@
+newman run "Identity Aware Proxy Labs-setup.postman_collection.json" -e master-single-dc.postman_environment.json -k
