@@ -41,6 +41,8 @@ The F5 waf highlights the part of the request it detects as malicious based on t
 
 |
 
+
+
 Notice the user-agent is curl, which may be a legitimate client. Make note of this.
 
 Ideally we want to block any malicious request, in this case the powershell execution attempt, but want to allow curl as its a legitimate client in our case. What about the %20 meta character, should it be allowed? Depending on the application, this could be legitimate.
