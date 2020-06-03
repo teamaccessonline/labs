@@ -11,9 +11,7 @@ Task 1 - Send a valid GET without a JWT to retrieve user1's attributes
 
 |image23|
 
-2. Expand the **API Protection** Collection
-
-3. the **Lab API Requests subfolder**
+2. Expand the **API Protection** Collection, the **Agility 2020** Folder, and finally the **Lab API Requests subfolder**
 
 3. Select the request **No JWT-Retrieve User Attributes**
 
